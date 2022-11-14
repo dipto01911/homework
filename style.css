@@ -1,0 +1,146 @@
+.first{
+    display: flex;
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    
+}
+.first h1{
+    color: red;
+}
+.first span{
+    font-weight: 300;
+    font-size: 30px;
+}
+.first p{
+    font-size: 15px;
+    font-weight: 200;
+}
+.first button{
+    padding: 7px 12px;
+    text-transform: capitalize;
+    font-weight: 300px;
+    color: white;
+    background-color: red;
+    border-radius: 5px ;
+    cursor: pointer;
+}
+.f2{
+    height: auto;
+    width: 300px;
+    margin-left: -300px; 
+    
+}
+.f11{
+    padding-left: 200px;
+    width: 50%;
+    float: left;
+   }
+   .second{
+    display: flex;
+    background-image: url("biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+   }
+   .s2{
+    height: auto;
+    width: 300px;
+    margin-left: 300px;
+}
+.s11{
+width: 60%;
+float: left;
+margin-left: 300px;
+}
+.second h1{
+    text-transform: capitalize;
+    color: red;
+}
+.second .s11{
+    font-weight: 200;
+    font-size: 15px;
+}
+.second button{
+    padding: 7px 12px;
+    text-transform: capitalize;
+    font-weight: 300px;
+    color: white;
+    background-color: red;
+    border-radius: 5px ;
+    cursor: pointer;
+}
+.third{
+    margin-top: 20px;
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.third h1{
+    text-transform: capitalize;
+    font-weight: 500;
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.t1{
+   margin-left: 100px;
+   display: flex;
+   gap: 30px;
+}
+img{
+    width: 30%;
+    float: left;
+    height: auto;
+    
+}
+.last{
+    margin-top: 30px;
+    text-align: center;
+}
+.last h1{
+    text-transform: capitalize;
+    font-weight: 500;
+    font-size: 30px;
+    color: black;
+}
+.last span{
+    font-size: 25px;
+    color: rgba(137, 43, 226, 0.336);
+    display: block;
+    margin-bottom: 10px;
+}
+.last small{
+     font-weight: 200;
+     font-size: 15px;
+     margin-bottom: 10px;
+}
+.last .p1{
+    width: 30%;
+    margin: 0 auto;
+    font-weight: 200;
+    display: block;
+    margin-bottom: 30px;
+
+}
+.last button{
+    padding: 10px 20px;
+    background-color: rgba(255, 0, 0, 0.515);
+    border-radius: 10px;
+}
+.last a{
+    text-decoration: none;
+    color: red;
+}
+.last a :visited{
+    color: white;
+}
+.last p{
+    font-weight: 500;
+    font-size: 20px;
+
+}
